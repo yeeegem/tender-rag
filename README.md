@@ -7,7 +7,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Uvicorn-009688?logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-containerised-2496ED?logo=docker&logoColor=white)
 
-**Client:** [ProEngineers](https://proengineers.ch) — digital tools for the Swiss construction industry  
+**Client:** [ProEngineers](https://www.pro-eng.ch/) and Partners - digital tools for the Swiss construction industry  
 **Team:** Vasili Areshka, Hanna Sliashynskaya  
 **Status:** Deployed in production on ProEngineers' infrastructure
 
@@ -75,9 +75,9 @@ We benchmarked four frontier models on custom metrics designed for this task. Th
 All four models achieved perfect row recall. **Gemini 2.5 Pro** led on cell accuracy; **Claude Opus 4.7** led on row precision.
 
 **Evaluation metrics:**
-- **Row Recall** — no relevant tender position is missed (critical for the client)
-- **Row Precision** — minimise irrelevant rows in the output
-- **Cell Accuracy** — correctness of individual extracted field values
+- **Row Recall** - no relevant tender position is missed (critical for the client)
+- **Row Precision** - minimise irrelevant rows in the output
+- **Cell Accuracy** - correctness of individual extracted field values
 
 ---
 
